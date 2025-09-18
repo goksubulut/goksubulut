@@ -32,13 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goksubulut&show_icons=true&theme=dark&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=E6E6FA)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goksubulut&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=E6E6FA)
-
----
-
 ### 🕸️ Connect with Me
 
 - 📧 Email: [goksu.bulut0@gmail.com](mailto:goksu.bulut0@gmail.com)  
