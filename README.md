@@ -40,12 +40,8 @@
 ---
 
 ### 🕸️ Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/göksu-bulut-0a09bb284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:goksu.bulut0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</p>
+
+- 📧 Email: [goksu.bulut0@gmail.com](mailto:goksu.bulut0@gmail.com)  
+- 💼 LinkedIn: [Göksu Bulut](https://www.linkedin.com/in/göksu-bulut-0a09bb284)
+
 
